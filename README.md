@@ -14,11 +14,11 @@ Game Setting:
   - Possibly Halloween weekend?
 - City Name: (some ideas for now)
   - Bleak Hill
-  - Graveport
-  - Rotwell City
   - Duskford
+  - Graveport
   - Nocheport
-
+  - Muertopolis
+  - Rotwell City
 
 Zombie Symptoms:
 - Character sprite not moving
