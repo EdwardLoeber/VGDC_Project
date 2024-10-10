@@ -6,7 +6,7 @@ Game Mechanics: (Basics)
   - If you get it wrong, then penalty occurs like a manager yelling sound or reducing timer
 
 Game setting:
-- Night club (name maybe Outbreak Dance)
+- D.K. Night club (Dance Klub)
 - Lasts from Friday night to Sunday morning
 - Manager: William Afton
 
