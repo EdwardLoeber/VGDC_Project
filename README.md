@@ -1,14 +1,24 @@
 Game Mechanics: (Basics)
 (Similar to Papers Please)
 - Club bouncer checks for zombies to night club
+- Combat mechanic to fight off zombies
 - Skill Check
   - (If time allows)
   - If you get the check wrong, then a penalty occurs like a manager yelling sound or reduction to the timer
 
+
 Game Setting:
-- D.K. Night club (Dance Klub)
-- Story lasts from Friday night to Sunday morning
-- Manager: William Afton
+- Club Name: D.K. Night club (Dance Klub)
+- Club Manager: William Afton
+- Date: Story lasts from Friday night to Sunday morning
+  - Possibly Halloween weekend?
+- City Name: (some ideas for now)
+  - Bleak Hill
+  - Graveport
+  - Rotwell City
+  - Duskford
+  - Nocheport
+
 
 Zombie Symptoms:
 - Character sprite not moving
@@ -17,6 +27,7 @@ Zombie Symptoms:
 - Yellow nails?
 - Bruises
 - Some blood on the zombie
+
 
 UI:
 - Date & timer are top left on the screen
